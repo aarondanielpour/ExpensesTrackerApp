@@ -326,3 +326,4 @@ C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\refint\Expen
 C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ExpensesTrackerApp.pdb
 C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ExpensesTrackerApp.genruntimeconfig.cache
 C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ref\ExpensesTrackerApp.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ExpensesTrackerApp.sourcelink.json
