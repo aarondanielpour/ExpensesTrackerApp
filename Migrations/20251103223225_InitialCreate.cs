@@ -1,10 +1,13 @@
 ﻿using System;
+using ExpensesTrackerApp.Data;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
 namespace ExpensesTrackerApp.Migrations
 {
+    [DbContext(typeof(ExpensesTrackerAppContext))]
     /// <inheritdoc />
     public partial class InitialCreate : Migration
     {

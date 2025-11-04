@@ -327,3 +327,12 @@ C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ExpensesTrac
 C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ExpensesTrackerApp.genruntimeconfig.cache
 C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ref\ExpensesTrackerApp.dll
 C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\obj\Debug\net9.0\ExpensesTrackerApp.sourcelink.json
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\aaron\Documents\GitHub\ExpensesTrackerApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll

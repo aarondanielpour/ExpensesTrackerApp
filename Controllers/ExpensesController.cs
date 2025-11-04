@@ -21,7 +21,11 @@ namespace ExpensesTrackerApp.Controllers
         // GET: Expenses
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Expense.ToListAsync());
+            var expenses = await _context.Expense
+                .OrderByDescending(e => e.Date)
+                .ToListAsync();
+            ViewBag.Total = expenses.Sum(e => e.Amount);
+            return View(expenses);
         }
 
         // GET: Expenses/Details/5
